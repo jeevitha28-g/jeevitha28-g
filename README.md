@@ -5,8 +5,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeevitha28-g&color=blue" />
-  <img src="https://img.shields.io/github/followers/jeevitha28-g?label=Follow&style=social" />
-  <img src="https://img.shields.io/github/stars/jeevitha28-g?style=social" />
 </p>
 
 ---
@@ -94,9 +92,14 @@ Weather app fetching real-time weather using OpenWeatherMap API.
 
 ## ⚡ Code Craftsmanship
 
-<p align="center">
-  <em>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler</em>
-</p>
+<div align="center">
+
+ **“Any fool can write code that a computer can understand.**  
+ **Good programmers write code that humans can understand.”**  
+ *— Martin Fowler*
+
+</div>
+
 
 ---
 
