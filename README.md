@@ -5,8 +5,6 @@
 🌱 Currently open to Full Stack Developer roles where I can contribute, learn, and grow.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeevitha28-g&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/jeevitha28-g?label=Follow&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/jeevitha28-g?style=social)
 
 ---
 
