@@ -81,11 +81,6 @@ Weather app fetching real-time weather using OpenWeatherMap API.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=jeevitha28-g&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevitha28-g&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevitha28-g&theme=radical" alt="GitHub Streak" />
 </p>
 
