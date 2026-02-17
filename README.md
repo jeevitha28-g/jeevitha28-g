@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Jeevitha Ganesan 👋</h1>
-  <p><strong>Full Stack JavaScript Developer</strong> specializing in the <strong>MERN Stack</strong></p>
+  <p><strong>UI/UX Developer at MOBO</strong> | Frontend Interface Specialist</p>
 </div>
 
 <p align="center">
@@ -10,50 +10,51 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **B.E. in Computer Science** – Anna University (GPA: 8.2/10)  
-- 💼 Completed **MERN Stack Internship** at Besant Technologies  
-- 🛠 Experienced in **React.js, PrimeReact, Node.js, Express.js, MySQL, MongoDB, Python, Flask, PHP**  
-- 📌 Built multiple projects with **CRUD functionality** and **RESTful API integration**  
-- 🌱 Always learning new technologies to build better web applications  
+
+🎨 UI/UX Developer at MOBO, focused on building responsive, user-centered web interfaces.  
+💻 Strong in frontend development with a deep interest in usability, accessibility, and interaction design.  
+🎓 B.E. in Computer Science – Anna University (GPA: 8.2/10)  
+🌱 Continuously improving UI systems, performance, and user experience strategies.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Expertise
 
 ### **Frontend**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-![PrimeReact](https://img.shields.io/badge/-PrimeReact-41B883?logo=react&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=fff)
+---
 
 ### **Database**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+---
 
 ### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
-![XAMPP](https://img.shields.io/badge/-XAMPP-F26B00?logo=apache&logoColor=fff)
-![WAMP](https://img.shields.io/badge/-WAMP-4DB33D?logo=apache&logoColor=fff)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-F26B00?logo=apache&logoColor=white)
+![WAMP](https://img.shields.io/badge/WAMP-4DB33D?logo=apache&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 
-### **Others**
-- CRUD Operations  
-- RESTful API Development  
-- API Integration  
+---
+
+### **UX & Development Practices**
 - Responsive Web Design  
-- Agile Development  
+- User-Centered Design  
+- Accessibility (A11y)  
+- Cross-Browser Compatibility  
+- Component-Based Architecture  
+- Performance Optimization  
+- Git Version Control  
 
 ---
 
@@ -90,13 +91,13 @@ Weather app fetching real-time weather using OpenWeatherMap API.
 
 ---
 
-## ⚡ Code Craftsmanship
+## ⚡ Design Philosophy
 
 <div align="center">
 
- **“Any fool can write code that a computer can understand.**  
- **Good programmers write code that humans can understand.”**  
- *— Martin Fowler*
+ **“Design is not just what it looks like and feels like.  
+ Design is how it works.”**  
+ *— Steve Jobs*
 
 </div>
 
